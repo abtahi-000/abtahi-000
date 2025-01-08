@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm S. M. Abtahiul Alam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abtahi-000&label=Profile%20views&color=0e75b6&style=flat" alt="abtahi-000" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abtahi-000" alt="abtahi-000" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, Github.**
 
@@ -26,3 +23,24 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abtahi-000&show_icons=true&locale=en" alt="abtahi-000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abtahi-000&" alt="abtahi-000" /></p>
+
+
+## Contributions 
+ 
+<picture> 
+  <source
+    media="(prefers-color-scheme: light)"
+   srcset="https://raw.githubusercontent.com/mdashraful305/mdashraful305/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/mdashraful305/mdashraful305/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
+
+
+
+## Trophies
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abtahi-000&label=Profile%20views&color=0e75b6&style=flat" alt="abtahi-000" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abtahi-000" alt="abtahi-000" /></a> </p>
