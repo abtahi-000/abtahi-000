@@ -1,3 +1,4 @@
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=40&lines=About+me;)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm S. M. Abtahiul Alam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
