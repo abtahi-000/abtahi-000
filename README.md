@@ -27,3 +27,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abtahi-000&label=Profile%20views&color=0e75b6&style=flat" alt="abtahi-000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abtahi-000" alt="abtahi-000" /></a> </p>
+
+## Thanks for visiting
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" alt="">
+
