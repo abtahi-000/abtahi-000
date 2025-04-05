@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
 ## More Information
-- 🌱 I’m currently learning **JavaScript,React**
+- 🌱 I’m currently learning **JavaScript, React Library**
 
 - 💬 Ask me about **HTML, Git.**
 
