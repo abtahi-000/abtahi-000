@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abtahi0606@gmail.com**
 
-- ⚡ Fun fact **I think i always sleepy.**
+- ⚡ Fun fact **i always sleepy.**
 
 <br>
 
