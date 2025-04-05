@@ -5,7 +5,7 @@
 ## More Information
 - 🌱 I’m currently learning **JavaScript, React Library**
 
-- 💬 Ask me about **HTML, Git.**
+- 💬 Ask me about **DOM, JS, API, React.**
 
 - 📫 How to reach me **abtahi0606@gmail.com**
 
